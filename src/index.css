@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: "Poppins", sans-serif;
+    margin : 0;
+    box-sizing: border-box;
+}
+
+body {
+  color :black;
+  background-color: #06417;
+}
